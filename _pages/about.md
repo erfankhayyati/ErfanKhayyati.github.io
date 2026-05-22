@@ -29,7 +29,8 @@ Feel free to reach me at **Erfan.Khayyati [AT] usu [DOT] edu**
 
 ## News
 
-- **[2026]** Received *Outstanding Computer Science Graduate Teaching Assistant* Award at Utah State University.
-- **[2026]** Submitted *BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development Bovine Embryo Viability Assessment* to **NeurIPS 2026** Datasets & Benchmarks Track.
-- **[2024]** Joined Utah State University as a Ph.D. student and Research Assistant.
-- **[2023]** Ranked **1st** in B.Sc. Computer Science cohort at Azarbaijan Shahid Madani University.
+- **[May 2026]** Submitted *BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development Bovine Embryo Viability Assessment* to **NeurIPS 2026 Evaluations & Datasets Track**.
+- **[Apr. 2026]** Successfully defended M.S. thesis: *Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines* at Utah State University.
+- **[Apr. 2026]** Received *Outstanding Computer Science Graduate Teaching Assistant* Award at Utah State University.
+- **[Aug. 2024]** Joined Utah State University as a Ph.D. student and Research Assistant.
+- **[Jun. 2023]** Ranked **1st** in B.Sc. Computer Science cohort at Azarbaijan Shahid Madani University.
