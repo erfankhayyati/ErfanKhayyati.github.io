@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 I am a Computer Science Ph.D. student at [Utah State University](https://www.usu.edu/), 
-working in **Computer Vision** and **Vision-Language Models (VLMs)**. My research includes 
+with research in **Computer Vision** and **Vision-Language Models (VLMs)**. My research includes 
 biological video analysis, deep learning model evaluation, and dataset development. I am 
 interested in reliable AI for visual, textual, and multimodal data across scientific and 
 industrial applications.
 
-I received my B.Sc. in Computer Science from Azarbaijan Shahid Madani University (2023), 
+I received my B.Sc. in Computer Science from [Azarbaijan Shahid Madani University](https://intl.azaruniv.ac.ir/) (2023), 
 where I ranked **1st** in my cohort and received a full four-year scholarship.
 
 **Research Interests:**
