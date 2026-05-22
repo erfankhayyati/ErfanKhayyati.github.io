@@ -14,7 +14,8 @@ interested in reliable AI for visual, textual, and multimodal data across scient
 industrial applications.
 
 I received my B.Sc. in Computer Science from [Azarbaijan Shahid Madani University](https://intl.azaruniv.ac.ir/) (2023), 
-where I ranked **1st** in my cohort and received a full four-year scholarship.
+where I ranked **1st** in my cohort and was recognized as a **Distinguished Talent** 
+by the university.
 
 **Research Interests:**
 - Computer Vision and Video Understanding
