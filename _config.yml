@@ -23,7 +23,7 @@ author:
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    :
+  googlescholar    :  "https://scholar.google.com/citations?hl=en&user=9VN2DEYAAAAJ&authuser=1&scilu=&scisig=ACUpqDcAAAAAaMNzeJVvC5O5llfWpW8L-1CkML0&gmla=AH8HC4wYNoiwMWuAZChgXFhLzhm9Xz_gYvjYj5vwrG1ImhnLF6f56LwcZgPUZ7FmvrtdYhJMFgWoR8rET-QjBqRZWS7Z5GsC26Vsq_M&sciund=5610301763118848200"
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -43,7 +43,7 @@ author:
   stackoverflow    :
 
   # Social media
-  linkedin         : https://www.linkedin.com/in/erfan-khayyati-059742206/
+  linkedin         : "https://www.linkedin.com/in/erfan-khayyati-059742206/"
   twitter          :
   bluesky          :
   instagram        :
