@@ -13,11 +13,11 @@ repository               : "ErfanKhayyati/ErfanKhayyati.github.io"
 author:
   avatar           : "profile.png"
   name             : "Erfan Khayyati"
-  pronouns         :
-  bio              : "CS PhD Student at Utah State University. Working on Computer Vision, Vision-Language Models, and Biological Video Analysis."
+  pronouns         : "he/him"
+  bio              : "CS PhD Student at Utah State University."
   location         : "Logan, UT, USA"
   employer         : "Utah State University"
-  uri              :
+  uri              : "https://www.usu.edu/"
   email            : "Erfan.Khayyati@usu.edu"
 
   # Academic websites
