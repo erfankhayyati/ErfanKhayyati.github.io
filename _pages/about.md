@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a Computer Science Ph.D. student at [Utah State University](https://www.usu.edu/), 
-working in **Computer Vision** and **Vision-Language Models (VLMs)**. My research focuses 
+working on **Computer Vision** and **Vision-Language Models (VLMs)**. My research focuses 
 on biological video understanding, large-scale dataset development, and multimodal learning 
 for embryo viability assessment. I completed my M.S. at USU (2026) and my B.Sc. at 
 [Azarbaijan Shahid Madani University](https://intl.azaruniv.ac.ir/) (2023), where I 
