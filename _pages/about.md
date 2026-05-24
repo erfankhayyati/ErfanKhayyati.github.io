@@ -16,6 +16,8 @@ University in 2026 and my B.Sc. in Computer Science at
 **1st** in my cohort.
 
 
+Feel free to reach me at **Erfan.Khayyati [AT] usu [DOT] edu**
+
 ---
 
 ## Research Interests
@@ -36,10 +38,8 @@ University in 2026 and my B.Sc. in Computer Science at
 - **Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines**  
   M.S. Thesis, Utah State University, 2026.
 
-
-Feel free to reach me at **Erfan.Khayyati [AT] usu [DOT] edu**
-
 ---
+
 
 ## News
 
