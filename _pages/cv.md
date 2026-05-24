@@ -9,56 +9,93 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📄 [Download Full CV (PDF)](/files/CV_Erfan_Khayyati.pdf)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Utah State University**, Logan, UT, USA  
+Ph.D. in Computer Science, 2024 – Present  
+M.S. in Computer Science, Spring 2026  
+- GPA: 3.95/4.00  
+- Thesis: *Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines*  
+- Coursework: Computer Vision, Natural Language Processing, Artificial Neural Networks
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**Azarbaijan Shahid Madani University**, Tabriz, Iran  
+B.Sc. in Computer Science, 2019 – 2023  
+- GPA: 3.49/4.00 &nbsp;|&nbsp; Last Two Years GPA: 3.96/4.00 &nbsp;|&nbsp; Ranked 1st in cohort
+
+---
+
+## Research Experience
+
+**Research Assistant**, Utah State University, 2024 – Present  
+*Bovine Embryo Video Analysis and Viability Prediction*  
+- Curated and analyzed a bovine embryo time-lapse video dataset with IVF/SCNT samples.
+- Developed preprocessing pipelines for frame extraction, ROI cropping, resizing, and normalization.
+- Designed evaluation protocols for six-class classification, outcome-only classification, and embryo-origin generalization.
+- Benchmarked CNN–RNN, 3D CNN, and video transformer architectures.
+- Proposed and evaluated a ResNet152-based Hierarchical Chunk-Attention (HCA) architecture.
+
+**Research Assistant**, Azarbaijan Shahid Madani University, 2022 – 2023  
+*Gun Image Classification Using Deep Learning*  
+- Built and cleaned a binary gun image dataset using web scraping and preprocessing.
+- Fine-tuned Xception achieving 84% test accuracy.
+
+---
+
+## Publications & Manuscripts
+
+**Erfan Khayyati**, et al. *BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development Bovine Embryo Viability Assessment.*  
+NeurIPS 2026 Evaluations & Datasets Track. *(Under Review)*
+
+---
+
+## Awards & Honors
+
+- **Outstanding Computer Science Graduate Teaching Assistant**, Utah State University, 2026
+- **Summer Graduate Research Assistantship**, Utah State University, 2024–2028
+- **Graduate Teaching Assistantship**, School of Computing, Utah State University
+- **Second-Ranked Applicant for Ph.D. Admission**, Utah State University, 2024
+- **Ranked 1st** in B.Sc. Computer Science Cohort, Azarbaijan Shahid Madani University
+- **Full Four-Year Undergraduate Scholarship**, Azarbaijan Shahid Madani University
+
+---
+
+## Teaching Experience
+
+**Teaching Assistant**, Utah State University, 2024 – Present  
+- Courses: Graduate Computer Vision, Advanced Data Mining, Algorithms & Data Structures, Foundations of CS
+- Delivered guest lectures on CNN architectures and OpenCV-based computer vision programming.
+- Graded assignments, exams, and projects; provided technical feedback and mentored students.
+
+**Teaching Assistant**, Azarbaijan Shahid Madani University, 2021 – 2023  
+- Courses: Deep Learning, Operating Systems, Advanced Programming
+
+---
+
+## Skills
+
+- **Programming:** Python, JavaScript, C++
+- **Deep Learning:** PyTorch, TensorFlow, Keras
+- **Data Science:** Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
+- **Computer Vision:** Image classification, object detection, segmentation, medical imaging, video understanding
+- **NLP & LLMs:** Transformers, text classification, prompt-based evaluation, LLM benchmarking
+- **Architectures:** CNNs, RNNs, Vision Transformers, VLMs, Mamba-based models
+- **Tools:** OpenCV, Git/GitHub, Linux, Jupyter Notebook, Google Colab, VS Code
+
+---
+
+## Certificates
+
+- [Machine Learning — Stanford University (Coursera)](https://www.coursera.org/account/accomplishments/verify/MBMBCRD6ZM95)
+- [Deep Learning Specialization — DeepLearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/H4R41L0UU5RA)
+- [Advanced Computer Vision with TensorFlow — DeepLearning.ai (Coursera)](https://coursera.org/share/270d7c834434d8524b25af1ba411f5c7)
+
+---
+
+## Languages
+
+- **English:** Fluent (proficiency requirement waived based on U.S. M.S. degree)
+- **Persian:** Native &nbsp;|&nbsp; **Turkish:** Mother tongue
