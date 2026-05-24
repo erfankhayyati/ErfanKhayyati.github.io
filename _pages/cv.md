@@ -19,13 +19,10 @@ redirect_from:
 **Ph.D. in Computer Science**, 2024 – Present  
 **M.S. in Computer Science**, Spring 2026  
 - GPA: 3.95/4.00  
-- Thesis: *Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines*  
-- Relevant Coursework: Computer Vision, Natural Language Processing, Artificial Neural Networks  
 
 **Azarbaijan Shahid Madani University**, Tabriz, Iran  
 **B.Sc. in Computer Science**, 2019 – 2023  
-- GPA: 3.49/4.00  (1st rank)
-- Last Two Years GPA: 3.96/4.00  
+- GPA: 3.49/4.00  (1st rank); Last Two Years GPA: 3.96/4.00  
  
 
 ---
@@ -44,13 +41,6 @@ redirect_from:
 *Gun Image Classification Using Deep Learning*  
 - Built and cleaned a binary gun image dataset using web scraping and preprocessing.
 - Fine-tuned Xception achieving 84% test accuracy.
-
----
-
-## Publications & Manuscripts
-
-**Erfan Khayyati**, et al. *BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development Bovine Embryo Viability Assessment.*  
-NeurIPS 2026 Evaluations & Datasets Track. *(Under Review)*
 
 ---
 
