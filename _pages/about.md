@@ -8,20 +8,11 @@ redirect_from:
 ---
 
 I am a Computer Science Ph.D. student at [Utah State University](https://www.usu.edu/), 
-advised in the areas of **Computer Vision** and **Vision-Language Models (VLMs)**. 
-My current research focuses on bovine embryo viability assessment using video understanding 
-architectures, large-scale dataset development for time-lapse embryo analysis, and 
-multimodal learning that combines visual and textual data for biological applications.
-
-I received my B.Sc. in Computer Science from [Azarbaijan Shahid Madani University](https://intl.azaruniv.ac.ir/) 
-(2023), where I ranked **1st** in my cohort and was recognized as a **Distinguished Talent** 
-by the university.
-
-**Research Interests:**
-- Computer Vision and Video Understanding
-- Multimodal Learning and Vision-Language Models (VLMs)
-- Medical and Biological Image/Video Analysis
-- Large Language Models (LLMs)
+working in **Computer Vision** and **Vision-Language Models (VLMs)**. My research focuses 
+on biological video understanding, large-scale dataset development, and multimodal learning 
+for embryo viability assessment. I completed my M.S. at USU (2026) and my B.Sc. at 
+[Azarbaijan Shahid Madani University](https://intl.azaruniv.ac.ir/) (2023), where I 
+ranked **1st** in my cohort.
 
 Feel free to reach me at **Erfan.Khayyati [AT] usu [DOT] edu**
 
