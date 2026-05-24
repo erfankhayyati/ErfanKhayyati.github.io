@@ -21,9 +21,10 @@ University in 2026 and my B.Sc. in Computer Science at
 ## Research Interests
 
 - Computer Vision and Video Understanding
-- Vision-Language Models and Multimodal Learning
+- Vision-Language Models (VLMs) and Multimodal Learning
+- Large Language Models (LLMs)
 - Biological and Medical Video Analysis
-- Dataset Development and Evaluation Benchmarks
+- Machine Learning and Deep Learning
 
 ---
 
