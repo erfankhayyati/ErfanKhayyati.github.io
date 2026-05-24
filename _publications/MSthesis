@@ -1,0 +1,12 @@
+---
+title: "Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines"
+collection: publications
+category: thesis
+permalink: /publication/2026-ms-thesis
+date: 2026-04-01
+venue: 'M.S. Thesis, Utah State University.'
+paperurl: ''
+citation: 'Erfan Khayyati. &quot;Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines.&quot; M.S. Thesis, Utah State University, 2026.'
+---
+
+This thesis studies deep learning methods for bovine embryo viability assessment using full-development time-lapse videos. It presents dataset preparation, annotation design, and benchmark experiments across CNN-RNN, 3D-CNN, and video transformer architectures, highlighting the challenges of long-horizon biological video understanding under limited-data conditions.
