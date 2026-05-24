@@ -16,16 +16,17 @@ redirect_from:
 ## Education
 
 **Utah State University**, Logan, UT, USA  
-Ph.D. in Computer Science, 2024 – Present  
-M.S. in Computer Science, Spring 2026  
+**Ph.D. in Computer Science**, 2024 – Present  
+**M.S. in Computer Science**, Spring 2026  
 - GPA: 3.95/4.00  
 - Thesis: *Viability Assessment of Bovine Embryos: A Public Dataset and Deep Learning Baselines*  
-- Coursework: Computer Vision, Natural Language Processing, Artificial Neural Networks
+- Relevant Coursework: Computer Vision, Natural Language Processing, Artificial Neural Networks  
 
 **Azarbaijan Shahid Madani University**, Tabriz, Iran  
-B.Sc. in Computer Science, 2019 – 2023  
-- GPA: 3.49/4.00 &nbsp;|&nbsp; Last Two Years GPA: 3.96/4.00 &nbsp;|&nbsp; Ranked 1st in cohort
-
+**B.Sc. in Computer Science**, 2019 – 2023  
+- GPA: 3.49/4.00  
+- Last Two Years GPA: 3.96/4.00  
+- Ranked 1st in cohort  
 ---
 
 ## Research Experience
@@ -97,5 +98,6 @@ NeurIPS 2026 Evaluations & Datasets Track. *(Under Review)*
 
 ## Languages
 
-- **English:** Fluent (proficiency requirement waived based on U.S. M.S. degree)
-- **Persian:** Native &nbsp;|&nbsp; **Turkish:** Mother tongue
+- **English:** Fluent; proficiency requirement waived based on U.S. M.S. degree  
+- **Persian:** Native  
+- **Turkish:** Mother tongue  
