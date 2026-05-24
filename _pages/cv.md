@@ -24,9 +24,10 @@ redirect_from:
 
 **Azarbaijan Shahid Madani University**, Tabriz, Iran  
 **B.Sc. in Computer Science**, 2019 – 2023  
-- GPA: 3.49/4.00  
+- GPA: 3.49/4.00  (1st rank)
 - Last Two Years GPA: 3.96/4.00  
-- Ranked 1st in cohort  
+ 
+
 ---
 
 ## Research Experience
