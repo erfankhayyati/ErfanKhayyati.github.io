@@ -3,7 +3,7 @@ title: "BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development
 collection: publications
 category: manuscripts
 permalink: /publication/2026-bovembryo
-date: 2026-01-01
+date: 2026-05-06
 venue: 'Under Review — NeurIPS 2026 Evaluations & Datasets Track.'
 paperurl: ''
 citation: 'Erfan Khayyati, et al. &quot;BovEmbryo: A Time-Lapse Video Dataset and Benchmark for Full-Development Bovine Embryo Viability Assessment.&quot; Under Review at NeurIPS 2026 Evaluations & Datasets Track.'
